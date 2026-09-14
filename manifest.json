@@ -1,0 +1,25 @@
+{
+  "name": "Actividades Académicas",
+  "short_name": "Actividades",
+  "description": "Gestión de actividades académicas por semestre, paralelo y estudiante",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#052e1c",
+  "theme_color": "#052e1c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-actividades-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-actividades-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
